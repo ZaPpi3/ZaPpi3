@@ -59,6 +59,9 @@ Repository:
 
 ---
 
+I fully understand the gravitas of my theories and I want to make it clear, I am not making claims, I just ask questions and try my best to find an answer.
+These are all just theories that are open for further discussion. I do have some factual numerical data of course, which could help others in their research.
+
 ## 📫 Contact
 
 If you’re interested in cosmology, emergent geometry, or numerical physics, feel free to reach out:
