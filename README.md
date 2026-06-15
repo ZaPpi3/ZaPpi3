@@ -1,5 +1,5 @@
 # Paul Jarvis  
-### Independent Researcher — Cosmology, Emergent Geometry, Numerical Physics
+### Independent Researcher - Cosmology, Emergent Geometry, Numerical Physics
 
 Welcome. I’m Paul, an independent researcher based in the UK working at the intersection of:
 
