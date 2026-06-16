@@ -11,7 +11,7 @@ Independent Theoretical Physics Researcher based in the United Kingdom. My resea
 ## 🌌 Core Research Portfolios
 
 ### 1. General-Relativistic Cyclic Cosmology from Holographic Saturation
-* **Repository:** [General-Relativistic-Cyclic-Cosmology-from-Holographic-Saturation](https://github.com)
+* **Repository:** [General-Relativistic-Cosmology-from-Holographic-Saturation](https://github.com)
 * **Framework:** Bypasses the Big Bang singularity via a smooth Israel–Darmois junction across a spacelike causal boundary. The transition from collapse to expansion is driven by a thermodynamic sign reversal of the effective confinement potential at the Bekenstein–Hawking information-saturation limit.
 * **Paradox Resolutions:** Solves Tolman’s Paradox via geometric information capacity scaling ($\alpha = 1.5$), resetting the universe into an effectively low-entropy configuration across bounces. Delivers a transient, hyper-stiff post-bounce energy potential that provides a natural, falsifiable resolution to the modern Hubble tension.
 * **Numerical Validation:** Features a 30-cycle entropy attractor renormalization flow model demonstrating the exponential decay of background inhomogeneities to a stable fixed point at exactly zero ($\tilde{S}^* = 0$).
