@@ -47,3 +47,4 @@ python Code/eigenmodes.py
 All manuscripts are formatted using APS REVTeX 4‑2, matching the exact column, mathematical, and bibliographic standards required for submission to journals such as Physical Review D.
 
 🤝 Discussion & Collaboration
+I welcome rigorous critique, mathematical review, and collaboration proposals from researchers working in loop quantum cosmology, holographic entanglement geometry, quantum gravity, and emergent spacetime. If you are an active arXiv author in gr‑qc or hep‑th and open to reviewing my codebases for an endorsement, please contact me via email.
