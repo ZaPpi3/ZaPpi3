@@ -1,51 +1,49 @@
-# Paul Jarvis
+Paul Jarvis  
+Independent Theoretical Physics Researcher — United Kingdom
 
-Independent Theoretical Physics Researcher based in the United Kingdom. My research focuses on resolving foundational contradictions between General Relativity and Quantum Mechanics by modeling spacetime as an emergent macroscopic phenomenon arising from a discrete, relational quantum information substrate.
+I investigate foundational inconsistencies between General Relativity and Quantum Mechanics by modelling spacetime as an emergent macroscopic phenomenon arising from a discrete, relational quantum‑information substrate. My work combines spectral geometry, manifold learning, information‑theoretic holography, and relational quantum dynamics to construct minimal, background‑independent models of spacetime and cosmology.
 
-- **ORCID:** [0009-0009-8933-857X](https://orcid.org)
-- **Email:** mrpaulwjarvis@gmail.com
-- **Core Methodology:** Spectral Geometry, Manifold Learning, Information-Theoretic Holography, and Relational Quantum Dynamics.
+ORCID: 0009‑0009‑8933‑857X
+Email: mrpaulwjarvis@gmail.com
 
----
+🌌 Core Research Portfolios
+1. General‑Relativistic Cyclic Cosmology from Holographic Saturation
+Repository: General‑Relativistic-Cyclic-Cosmology-from-Holographic-Saturation
 
-## 🌌 Core Research Portfolios
+Framework:  
+A fully GR‑consistent cyclic cosmology that resolves the classical Big Bang singularity via a smooth Israel–Darmois junction across a spacelike causal boundary. The bounce is triggered by a thermodynamic sign reversal of the effective confinement potential when the collapsing universe reaches the Bekenstein–Hawking information‑saturation limit.
 
-### 1. General-Relativistic Cyclic Cosmology from Holographic Saturation
-* **Repository:** [General-Relativistic-Cyclic-Cosmology-from-Holographic-Saturation](https://github.com)
-* **Framework:** Bypasses the Big Bang singularity via a smooth Israel–Darmois junction across a spacelike causal boundary. The transition from collapse to expansion is driven by a thermodynamic sign reversal of the effective confinement potential at the Bekenstein–Hawking information-saturation limit.
-* **Paradox Resolutions:** Solves Tolman’s Paradox via geometric information capacity scaling ($\alpha = 1.5$), resetting the universe into an effectively low-entropy configuration across bounces. Delivers a transient, hyper-stiff post-bounce energy potential that provides a natural, falsifiable resolution to the modern Hubble tension.
-* **Numerical Validation:** Features a 30-cycle entropy attractor renormalization flow model demonstrating the exponential decay of background inhomogeneities to a stable fixed point at exactly zero ($\tilde{S}^* = 0$).
+Paradox Resolutions:  
+• Tolman’s Paradox: Resolved through geometric information‑capacity scaling (α = 1.5), corresponding to area‑law growth of holographic degrees of freedom.
+• Hubble Tension: The model naturally produces a transient, hyper‑stiff post‑bounce phase that yields a falsifiable prediction for early‑time expansion rates.
 
-### 2. The Gravitational Baseline Principle
-* **Repository:** [jarvis-gravitational-baseline-principle](https://github.com)
-* **Framework:** Identifies a fundamental structural asymmetry between General Relativity (fixed kinematic backgrounds are absent) and Quantum Field Theory (fixed backgrounds are operationally required). Formulates gravity not as a conventional, standard gauge interaction, but as the universal baseline geometry that makes field operator relations definable.
-* **Numerical Validation:** Diagonalizes the unnormalized graph Laplacian operator ($\Delta_Q$) of a non-local relational entanglement kernel to map low-lying spectral eigenmodes. Proves spontaneous coordinate chart generation ($x, y$) and recovers a continuous, isotropic 2D spatial manifold from non-spatial quantum inputs.
+Numerical Validation:  
+A 30‑cycle entropy‑renormalisation flow demonstrates exponential decay of inherited inhomogeneities, converging to a stable fixed point S̃* = 0, even as absolute entropy increases across cycles.
 
-### 3. Emergent Geometry from Entanglement (Substrate Benchmarks)
-* **Repository:** [emergent-geometry-heisenberg](https://github.com)
-* **Framework:** Computational ground-state modeling of an antiferromagnetic Heisenberg spin chain ($N = 6\text{--}16$) using exact diagonalization. Tracks mutual information ($I(i,j)$) matrices as spatial proximity proxies to confirm the scaling law bounds ($\lambda_1 \propto N^{-2}$) of continuous 1D spatial structures arising directly from discrete entanglement topologies.
+2. The Gravitational Baseline Principle
+Repository: jarvis-gravitational-baseline-principle
 
----
+Framework:  
+Identifies the fundamental structural asymmetry between GR and QFT: QFT requires a fixed kinematic background to define locality and operator algebra, while GR denies any fixed background and treats the metric as a dynamical field. The Gravitational Baseline Principle reframes gravity not as a peer gauge interaction but as the universal geometric baseline that renders all field‑theoretic relations definable.
 
-## 🚀 Technical Framework & Execution
+Numerical Validation:  
+Diagonalisation of the unnormalised graph Laplacian ΔQ constructed from a non‑local relational entanglement kernel reveals spontaneous coordinate reconstruction. Low‑lying eigenmodes recover a smooth, isotropic 2D spatial manifold from purely non‑spatial quantum inputs.
 
-All theoretical models are fully open-source and computationally reproducible. The underlying numerical pipelines are built natively using standard matrix algebra and visualization tools:
+3. Emergent Geometry from Entanglement (Substrate Benchmarks)
+Repository: emergent-geometry-heisenberg
 
-```bash
-# Clone a framework core and explore the underlying numerical pipelines
-git clone https://github.com.git
+Framework:  
+Exact‑diagonalisation studies of antiferromagnetic Heisenberg chains (N = 6–16) are used to probe the emergence of spatial structure from entanglement topology. Mutual‑information matrices I(i,j) act as proximity proxies, reproducing the expected spectral‑geometry scaling λ₁ ∝ N⁻² associated with continuous 1D manifolds.
+
+🚀 Technical Framework & Execution
+All theoretical models are open‑source and computationally reproducible. Numerical pipelines are implemented using standard linear‑algebra and visualisation tools.
+
+Clone a framework and explore its numerical pipeline:
+git clone https://github.com/ZaPpi3/jarvis-gravitational-baseline-principle  
 cd jarvis-gravitational-baseline-principle
 python Code/eigenmodes.py
-```
 
----
+📄 Manuscript Standards
+All manuscripts are formatted using APS REVTeX 4‑2, matching the exact column, mathematical, and bibliographic standards required for submission to journals such as Physical Review D.
 
-## 📄 Manuscript Standards
-
-Preprint manuscripts housed within these repositories are fully formatted using the official American Physical Society **REVTeX 4-2** production specifications, tracking the exact column, mathematical environment, and bibliography standards required for submission to peer-reviewed journals such as *Physical Review D*.
-
----
-
-## 🤝 Discussion and Collaboration
-
-I welcome rigorous critique, mathematical review, or collaboration proposals from researchers working in loop quantum cosmology, holographic entanglement geometry, and quantum gravity. If you are an active arXiv author in the `gr-qc` or `hep-th` categories and are open to reviewing my codebases for an entry endorsement, please reach out via email.
+🤝 Discussion & Collaboration
