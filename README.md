@@ -41,7 +41,7 @@ All theoretical models are open‑source and computationally reproducible. Numer
 Clone a framework and explore its numerical pipeline:
 git clone https://github.com/ZaPpi3/jarvis-gravitational-baseline-principle  
 cd jarvis-gravitational-baseline-principle
-python Code/gravitational_baseline_numerics.py
+python code/gravitational_baseline_numerics.py
 
 📄 Manuscript Standards
 All manuscripts are formatted using APS REVTeX 4‑2, matching the exact column, mathematical, and bibliographic standards required for submission to journals such as Physical Review D.
