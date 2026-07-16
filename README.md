@@ -16,7 +16,6 @@ Foundational work: reconstructing spatial/geometric structure directly from the 
 - **[jarvis-gravitational-baseline-principle](https://github.com/ZaPpi3/jarvis-gravitational-baseline-principle)** - Gravity as the universal geometric framework rather than a conventional gauge field; the founding proposal for the pre-geometric quantum substrate tested numerically throughout the rest of this portfolio.
 - **[universal-emergent-geometry](https://github.com/ZaPpi3/universal-emergent-geometry)** - Many-body exact diagonalization (XXZ chain, TFIM, spin glass, free fermions) showing mutual-information-induced graph Laplacians are a universal geometric diagnostic of quantum phase structure.
 - **[Range-Vs-Entanglement](https://github.com/ZaPpi3/Range-Vs-Entanglement)** - Diagnostic study isolating interaction *range* (not entanglement magnitude) as the operative variable behind the naive geometric signature seen in Heisenberg spin chains.
-- **[emergent-geometry-heisenberg](https://github.com/ZaPpi3/emergent-geometry-heisenberg)** - Earlier, standalone numerical demonstration of the same effect; kept as a benchmark predecessor to the two repos above.
 
 ## 🌀 Holographic & Cyclic Cosmology
 
