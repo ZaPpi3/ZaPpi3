@@ -1,6 +1,6 @@
 # Paul Jarvis
 
-Independent Theoretical Physics Researcher — United Kingdom
+Independent Theoretical Physics Researcher - United Kingdom
 
 I investigate foundational inconsistencies between General Relativity and Quantum Mechanics by modelling spacetime as an emergent macroscopic phenomenon arising from a discrete, relational quantum-information substrate. My work combines spectral geometry, manifold learning, information-theoretic holography, and relational quantum dynamics to construct minimal, background-independent models of spacetime and cosmology. I also run occasional replication studies outside physics - most recently in mechanistic interpretability of language models - using the same spectral/graph-theoretic toolkit.
 
