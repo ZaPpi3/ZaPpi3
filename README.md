@@ -1,8 +1,8 @@
 # Paul Jarvis
 
-Independent Theoretical Physics Researcher - United Kingdom
+Independent Theoretical Physics Researcher, United Kingdom
 
-I investigate foundational inconsistencies between General Relativity and Quantum Mechanics by modelling spacetime as an emergent macroscopic phenomenon arising from a discrete, relational quantum-information substrate. My work combines spectral geometry, manifold learning, information-theoretic holography, and relational quantum dynamics to construct minimal, background-independent models of spacetime and cosmology. I also run occasional replication studies outside physics - most recently in mechanistic interpretability of language models - using the same spectral/graph-theoretic toolkit.
+I investigate foundational inconsistencies between General Relativity and Quantum Mechanics by modelling spacetime as an emergent macroscopic phenomenon arising from a discrete, relational quantum-information substrate. My work combines spectral geometry, manifold learning, information-theoretic holography, and relational quantum dynamics to construct minimal, background-independent models of spacetime and cosmology. I also run occasional replication studies outside physics, most recently in mechanistic interpretability of language models, using the same spectral/graph-theoretic toolkit.
 
 ORCID: [0009-0009-8933-857X](https://orcid.org/0009-0009-8933-857X)
 Email: mrpaulwjarvis@gmail.com
@@ -13,32 +13,41 @@ Email: mrpaulwjarvis@gmail.com
 
 Foundational work: reconstructing spatial/geometric structure directly from the entanglement/mutual-information structure of many-body quantum systems, with no background geometry assumed.
 
-- **[jarvis-gravitational-baseline-principle](https://github.com/ZaPpi3/jarvis-gravitational-baseline-principle)** - Gravity as the universal geometric framework rather than a conventional gauge field; the founding proposal for the pre-geometric quantum substrate tested numerically throughout the rest of this portfolio.
-- **[universal-emergent-geometry](https://github.com/ZaPpi3/universal-emergent-geometry)** - Many-body exact diagonalization (XXZ chain, TFIM, spin glass, free fermions) showing mutual-information-induced graph Laplacians are a universal geometric diagnostic of quantum phase structure.
-- **[Range-Vs-Entanglement](https://github.com/ZaPpi3/Range-Vs-Entanglement)** - Diagnostic study isolating interaction *range* (not entanglement magnitude) as the operative variable behind the naive geometric signature seen in Heisenberg spin chains.
+- **[jarvis-gravitational-baseline-principle](https://github.com/ZaPpi3/jarvis-gravitational-baseline-principle)**: Gravity as the universal geometric framework rather than a conventional gauge field; the founding proposal for the pre-geometric quantum substrate tested numerically throughout the rest of this portfolio.
+- **[universal-emergent-geometry](https://github.com/ZaPpi3/universal-emergent-geometry)**: Many-body exact diagonalization (XXZ chain, TFIM, spin glass, free fermions) showing mutual-information-induced graph Laplacians are a universal geometric diagnostic of quantum phase structure.
+- **[Range-Vs-Entanglement](https://github.com/ZaPpi3/Range-Vs-Entanglement)**: Diagnostic study isolating interaction *range* (not entanglement magnitude) as the operative variable behind the naive geometric signature seen in Heisenberg spin chains.
+- **[linear-vs-quadratic-dispersion](https://github.com/ZaPpi3/linear-vs-quadratic-dispersion)**: Direct follow-up to *Range Versus Entanglement*: traces its flagged linear-vs-quadratic dispersion anomaly to a finite-size AICc windowing artifact, proves the exact curvature-inflection points analytically, and isolates a genuine, still-unexplained residual that survives the correction.
 
 ## 🌀 Holographic & Cyclic Cosmology
 
 Applying the same information-saturation substrate to cosmology: non-singular bounces, inflation, dark energy, and the Hubble tension as consequences of a holographic bound on a relational network, rather than new fields.
 
-- **[General-Relativistic-Cyclic-Cosmology-from-Holographic-Saturation](https://github.com/ZaPpi3/General-Relativistic-Cyclic-Cosmology-from-Holographic-Saturation)** - A fully GR-consistent cyclic cosmology resolving the classical Big Bang singularity via a smooth Israel-Darmois junction, triggered by holographic information saturation.
-- **[A-Minimal-Model-of-the-Singularity-as-Information-Saturation](https://github.com/ZaPpi3/A-Minimal-Model-of-the-Singularity-as-Information-Saturation)** - Black-hole singularities as information-saturation points; collapse reduces degrees of freedom until the holographic bound triggers a bounce.
-- **[Information-saturated-bounce](https://github.com/ZaPpi3/Information-saturated-bounce)** - MI-Laplacian saturation triggering a UV energy ceiling, a de Sitter fixed point, and universal RG flow across graph topologies.
-- **[Relational-Quantum-Cosmology-From-MI-Laplacians-to-Cosmological-Dynamics](https://github.com/ZaPpi3/Relational-Quantum-Cosmology-From-MI-Laplacians-to-Cosmological-Dynamics)** - The cosmic stress-energy tensor derived directly from a quantum information substrate's network properties, from de Sitter inflation through a hyper-stiff bounce.
-- **[emergent-topological-inflation](https://github.com/ZaPpi3/emergent-topological-inflation)** - A field-free numerical cosmology engine: bounces, inflation attractors, and dark-energy anomalies as thermodynamic phase transitions on a relational substrate.
-- **[hyperstiff-entanglement-geometry](https://github.com/ZaPpi3/hyperstiff-entanglement-geometry)** - Entanglement-geometric signatures of the hyper-stiff cosmological phase - MI-Laplacian spectra, finite-size scaling, and localization diagnostics.
-- **[hubble-tension-geometry](https://github.com/ZaPpi3/hubble-tension-geometry)** - A geometric alternative to early dark energy that resolves the Hubble tension via a transient hyper-stiff confinement-release spike.
-- **[gravitational-wave-blue-tilt](https://github.com/ZaPpi3/gravitational-wave-blue-tilt)** - Analytical derivations and tensor-perturbation pipelines for a blue-tilted primordial gravitational-wave spectrum from brane-rupture dynamics.
+- **[General-Relativistic-Cyclic-Cosmology-from-Holographic-Saturation](https://github.com/ZaPpi3/General-Relativistic-Cyclic-Cosmology-from-Holographic-Saturation)**: A fully GR-consistent cyclic cosmology resolving the classical Big Bang singularity via a smooth Israel-Darmois junction, triggered by holographic information saturation.
+- **[A-Minimal-Model-of-the-Singularity-as-Information-Saturation](https://github.com/ZaPpi3/A-Minimal-Model-of-the-Singularity-as-Information-Saturation)**: Black-hole singularities as information-saturation points; collapse reduces degrees of freedom until the holographic bound triggers a bounce.
+- **[Information-saturated-bounce](https://github.com/ZaPpi3/Information-saturated-bounce)**: MI-Laplacian saturation triggering a UV energy ceiling, a de Sitter fixed point, and universal RG flow across graph topologies.
+- **[Relational-Quantum-Cosmology-From-MI-Laplacians-to-Cosmological-Dynamics](https://github.com/ZaPpi3/Relational-Quantum-Cosmology-From-MI-Laplacians-to-Cosmological-Dynamics)**: The cosmic stress-energy tensor derived directly from a quantum information substrate's network properties, from de Sitter inflation through a hyper-stiff bounce.
+- **[emergent-topological-inflation](https://github.com/ZaPpi3/emergent-topological-inflation)**: A field-free numerical cosmology engine: bounces, inflation attractors, and dark-energy anomalies as thermodynamic phase transitions on a relational substrate.
+- **[hyperstiff-entanglement-geometry](https://github.com/ZaPpi3/hyperstiff-entanglement-geometry)**: Entanglement-geometric signatures of the hyper-stiff cosmological phase: MI-Laplacian spectra, finite-size scaling, and localization diagnostics.
+- **[hubble-tension-geometry](https://github.com/ZaPpi3/hubble-tension-geometry)**: A geometric alternative to early dark energy that resolves the Hubble tension via a transient hyper-stiff confinement-release spike.
+- **[gravitational-wave-blue-tilt](https://github.com/ZaPpi3/gravitational-wave-blue-tilt)**: Analytical derivations and tensor-perturbation pipelines for a blue-tilted primordial gravitational-wave spectrum from brane-rupture dynamics.
 
 ## 🔭 Observational Astrophysics
 
-- **[background-systematics-versus-redshift](https://github.com/ZaPpi3/background-systematics-versus-redshift)** - A JWST NIRCam dropout search that uncovers a NIRCam module A/B background systematic, reverses two headline $z\sim10$ candidates under escalating controls, and validates a third.
+- **[background-systematics-versus-redshift](https://github.com/ZaPpi3/background-systematics-versus-redshift)**: A JWST NIRCam dropout search that uncovers a NIRCam module A/B background systematic, reverses two headline $z\sim10$ candidates under escalating controls, and validates a third.
+- **[nircam-snowball-contamination-lrd-selection](https://github.com/ZaPpi3/nircam-snowball-contamination-lrd-selection)**: Applies a compact-plus-red "Little Red Dot" proxy selection to existing NIRCam catalogs, then escalates from visual vetting to real raw-exposure DQ-flag verification: 7 of 22 flagged candidates are confirmed NIRCam "snowball" cosmic-ray artifacts, not real compact sources, with vetting status, not field identity, explaining the contamination rate.
+
+## ⚛️ Quantum Foundations, Numerical and Real Hardware
+
+Discrete probe-geometry backreaction models and their real superconducting-hardware counterparts: does the choice between unitary evolution and genuine projective measurement leave a checkable, physical fingerprint.
+
+- **[reproducibility-backreaction](https://github.com/ZaPpi3/reproducibility-backreaction)**: A minimal discrete probe-geometry model shows continuous unitary backreaction is bit-for-bit reproducible while measurement-based backreaction is not, characterizes the resulting structural bias across 200,000-trajectory GPU ensembles, and gives an analytic argument for why it arises.
+- **[ibm-chsh-bell](https://github.com/ZaPpi3/ibm-chsh-bell)**: Real superconducting-hardware CHSH and GHZ/Mermin nonlocality violations, plus a hardware noise fingerprint experiment porting the reproducibility diagnostic above onto real hardware, including a full, honest account of four independent convention/indexing bugs caught and fixed via hard physical constraints along the way.
 
 ## 🤖 Machine Learning Interpretability
 
 A different field, same toolkit: applying the spectral/graph-Laplacian methods above to language-model internals instead of physical systems.
 
-- **[emergent-geometry-llm-representations](https://github.com/ZaPpi3/emergent-geometry-llm-representations)** - Replication attempt: does an LLM encode cyclic concepts (days, months) as literal 2D circles in hidden-activation space? A chain of null results resolves into a positive one - a full-rank rotational code recovered via subject-token causal patching - which then partially generalizes to other small closed sets (zodiac signs, planets, playing-card ranks).
+- **[emergent-geometry-llm-representations](https://github.com/ZaPpi3/emergent-geometry-llm-representations)**: Replication attempt: does an LLM encode cyclic concepts (days, months) as literal 2D circles in hidden-activation space? A chain of null results resolves into a positive one, a full-rank rotational code recovered via subject-token causal patching, which then partially generalizes to other small closed sets (zodiac signs, planets, playing-card ranks).
 
 ---
 
